@@ -1,3 +1,4 @@
+#como ser aprovado em um emprestimo
 print('Vamos analisar se você será aprovado para a compra do seu carro: ')
 emprestimoBancario = float(input('Qual o valor do carro que você quer comprar?'))
 salario = float(input('Quanto você ganha por mês?'))
